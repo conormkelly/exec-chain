@@ -1,0 +1,16 @@
+{
+  "name": "chain-of-command",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Conor Kelly <conormpkelly@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bottlejs": "^2.0.0",
+    "require-all": "^3.0.0"
+  }
+}
